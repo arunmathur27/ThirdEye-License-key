@@ -1,7 +1,7 @@
 {
   "payload": {
     "key_id": "CUST_NAR_001",
-    "max_cameras": 5,
+    "max_cameras": 6,
     "max_users": 2,
     "exp": "2026-12-31T23:59:59Z",
     "features": ["email_alerts", "snapshots"],
