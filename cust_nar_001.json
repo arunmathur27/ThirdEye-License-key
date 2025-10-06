@@ -8,7 +8,7 @@
   "yolo_cfg": "models/yolo/yolov4-tiny.cfg",
   "yolo_weights": "models/yolo/yolov4-tiny.weights",
   "coco_names": "models/yolo/coco.names",
-  "detection_classes": ["person,bottle"],
+  "detection_classes": ["person","bottle"],
   "recordings_path": "recordings",
   "zip_output_dir": "zips",
   "max_zip_mb": 25,
