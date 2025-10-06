@@ -18,7 +18,11 @@
   "email_password": "Diksha#061198",
   "email_receiver": "mathur.arunmathur@outlook.com",
   "smtp_host": "smtp.hostinger.com",
-  "smtp_port": 465
+  "smtp_port": 465,
+  "start_time": "09:34",
+  "stop_time": "09:38",
+  "schedule_mode": "daily",
+  "weekdays": ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
   },
   "sig": ""
 }
