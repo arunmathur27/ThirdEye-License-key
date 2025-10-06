@@ -14,9 +14,9 @@
   "max_zip_mb": 25,
   "segment_seconds": 300,
   "motion_threshold_pixels": 5000,
-  "email_sender": "xyz@gmail.com",
-  "email_password": "app_password",
-  "email_receiver": "abc@gmail.com",
+  "email_sender": "arun@kognist-ai.com",
+  "email_password": "Diksha#061198",
+  "email_receiver": "mathur.arunmathur@outlook.com",
   "smtp_host": "smtp.hostinger.com",
   "smtp_port": 465
   },
