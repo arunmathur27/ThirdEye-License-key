@@ -19,9 +19,9 @@
   "email_receiver": "mathur.arunmathur@outlook.com",
   "smtp_host": "smtp.hostinger.com",
   "smtp_port": 465,
-  "run_mode": "schedule",
-  "start_time": "12:36",
-  "stop_time": "12:40",
+  "run_mode": "scheduler",
+  "start_time": "05:55",
+  "stop_time": "05:58",
   "schedule_mode": "daily",
   "weekdays": ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
   },
