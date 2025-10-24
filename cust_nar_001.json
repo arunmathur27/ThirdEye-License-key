@@ -14,7 +14,7 @@
   "zip_output_dir": "zips",
   "max_zip_mb": 25,
   "segment_seconds": 300,
-  "send_interval_hours": 1,
+  "send_interval_hours": 0.0833,
   "send_on_manual_stop": false,
   "motion_threshold_pixels": 5000,
   "email_sender": "arun@kognist-ai.com",
