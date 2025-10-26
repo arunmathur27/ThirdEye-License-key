@@ -1,6 +1,6 @@
 {
   "payload": {
-  "camera_type": "pi",
+  "camera_type": "usb",
   "camera_index": 0,
   "camera_name": "OfficeCam1",
   "frame_width": 640,
