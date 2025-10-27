@@ -1,32 +1,11 @@
 {
   "payload": {
-  "camera_type": "usb",
-  "camera_index": 0,
-  "camera_name": "OfficeCam1",
-  "frame_width": 640,
-  "frame_height": 480,
-  "fps": 15,
-  "yolo_cfg": "/home/admin/Desktop/autorun/models/yolo/yolov4-tiny.cfg",
-  "yolo_weights": "/home/admin/Desktop/autorun/models/yolo/yolov4-tiny.weights",
-  "coco_names": "/home/admin/Desktop/autorun/models/yolo/coco.names",
-  "detection_classes": ["person","bottle"],
-  "recordings_path": "recordings",
-  "zip_output_dir": "zips",
-  "max_zip_mb": 25,
-  "segment_seconds": 300,
-  "send_interval_hours": 0.0833,
-  "send_on_manual_stop": false,
-  "motion_threshold_pixels": 5000,
-  "email_sender": "arun@kognist-ai.com",
-  "email_password": "Diksha#061198",
-  "email_receiver": "mathur.arunmathur@outlook.com",
-  "smtp_host": "smtp.hostinger.com",
-  "smtp_port": 465,
-  "run_mode": "direct",
-  "start_time": "06:15",
-  "stop_time": "06:18",
-  "schedule_mode": "daily",
-  "weekdays": ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"]
+    "key_id": "CUST_NAR_001",
+    "max_cameras": 8,
+    "max_users": 2,
+    "exp": "2026-12-31T23:59:59Z",
+    "features": ["email_alerts", "snapshots"],
+    "fingerprints": []
   },
   "sig": ""
 }
